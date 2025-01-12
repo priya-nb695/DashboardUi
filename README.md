@@ -33,6 +33,7 @@ Follow these steps to clone and run the project:
            cd dashboard-ui
 
 3.Install dependencies:
+          
            npm install  
 
            npm install @mui/material @emotion/react @emotion/styled
