@@ -31,11 +31,16 @@ Follow these steps to clone and run the project:
            cd dashboard-ui
 
 3.Install dependencies:
-           npm install   
+           npm install  
+
            npm install @mui/material @emotion/react @emotion/styled
+
            npm install chart.js
+
            npm install react-chartjs-2
+
              (or) 
+             
           npm install react react-dom @mui/material @emotion/react @emotion/styled chart.js react-chartjs-2
 
   (if any dependencies not found error encountered just install that necessary libray while running the app like 
