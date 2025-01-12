@@ -25,9 +25,11 @@ Installation
 Follow these steps to clone and run the project:
 
 1.Clone the repository:
+
            git clone https://github.com/priya-nb695/DashboardUi.git
 
 2.Navigate to the project directory:
+          
            cd dashboard-ui
 
 3.Install dependencies:
@@ -40,15 +42,19 @@ Follow these steps to clone and run the project:
            npm install react-chartjs-2
 
              (or) 
-             
+
           npm install react react-dom @mui/material @emotion/react @emotion/styled chart.js react-chartjs-2
 
   (if any dependencies not found error encountered just install that necessary libray while running the app like 
+   
    npm i [dependencyName]
+
    )
 
 4.Start the development server:
+          
            npm start
 
 5.Open your browser and navigate to:
+
            http://localhost:3000
